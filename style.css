@@ -8,10 +8,11 @@ section {
 }
 .half {
   width: 50%;
-  margin-left: 90px;
+  margin-left: 140px;
 }
 img {
-  width: 60%;
+  width: 70%;
+  margin-left: 100px;
 }
 h1 {
   padding-left: 10px;
@@ -24,8 +25,12 @@ h2 {
   text-align: center;
   font-size: 45px;
 }
+h3 {
+  font-size: 30px;
+}
 .nl {
   color: aqua;
+  font-size: 47px;
 }
 p {
   padding: 20px 0px;
@@ -44,5 +49,7 @@ a {
   box-shadow: 10px 10px 30px black;
 }
 .third-sec {
-  display: flex;
+  width: 50%;
+  margin-right: 150px;
+  margin-top: 20px;
 }
