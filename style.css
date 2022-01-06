@@ -12,9 +12,9 @@ section {
 }
 img {
   width: 80%;
-  margin-left: 0px;
 }
 h1 {
+  height: 30%;
   font-family: "Lobster", cursive;
   padding-left: 10px;
   font-size: 50px;
@@ -30,6 +30,7 @@ h3 {
   font-size: 30px;
 }
 h4 {
+  font-family: "Yeseva One", cursive;
   font-size: 30px;
   color: white;
   text-align: center;
@@ -40,6 +41,7 @@ h4 {
   font-size: 47px;
 }
 p {
+  font-weight: 700;
   padding: 20px 0px;
   color: rgb(116, 107, 107);
 }
