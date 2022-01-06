@@ -11,10 +11,11 @@ section {
   margin-left: 140px;
 }
 img {
-  width: 70%;
-  margin-left: 100px;
+  width: 80%;
+  margin-left: 0px;
 }
 h1 {
+  font-family: "Lobster", cursive;
   padding-left: 10px;
   font-size: 50px;
   border-left: 3px solid;
@@ -23,10 +24,16 @@ h1 {
 }
 h2 {
   text-align: center;
-  font-size: 45px;
+  font-size: 40px;
 }
 h3 {
   font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
 }
 .nl {
   color: aqua;
@@ -34,12 +41,14 @@ h3 {
 }
 p {
   padding: 20px 0px;
+  color: rgb(116, 107, 107);
 }
 a {
   text-decoration: none;
   background-image: linear-gradient(orange, red);
   padding: 10px;
   border-radius: 10px;
+  color: antiquewhite;
 }
 .mission {
   width: 25%;
@@ -52,4 +61,9 @@ a {
   width: 50%;
   margin-right: 150px;
   margin-top: 20px;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  padding-bottom: 20px;
 }
